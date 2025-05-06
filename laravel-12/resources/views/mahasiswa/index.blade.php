@@ -2,6 +2,6 @@
 @foreach ($prodi as $item )
 {{ $item->nama }}
 {{ $item->singkatan }}
-{{ $item->kaprodi }}
+
 
 @endforeach
